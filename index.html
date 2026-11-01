@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>姚余锐｜个人 AI 作品与产品实践</title>
+  <meta name="description" content="姚余锐的个人 AI 作品主页。关注 AI 产品经理与 B 端应用，提供可交互体验、产品案例和脱敏源码下载。">
+  <meta name="theme-color" content="#173f37">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="home.css">
+</head>
+<body class="hub">
+<a class="skip" href="#main">跳到正文</a>
+<header class="header"><a href="index.html" class="brand" aria-label="姚余锐个人作品首页"><span class="monogram">Y</span><span>姚余锐<span class="brand-sub">AI & PRODUCT PORTFOLIO</span></span></a><nav aria-label="主导航"><a href="#works">个人作品</a><a href="#about">关于我</a><a href="#questions">使用说明</a><a class="nav-cta" href="case-study.html">项目案例 <span aria-hidden="true">↗</span></a></nav></header>
+<main id="main">
+  <section class="wrap hub-intro"><p class="eyebrow"><span class="dot"></span> 姚余锐 / AI 产品经理 · B 端应用方向</p><h1>把业务里的问题，<br>做成<span>可以体验的 AI 作品。</span></h1><p class="intro-text">你好，我是姚余锐。关注业务流程、规则依据与人机协作。这里收录我的个人项目，包含在线交互体验、产品设计过程和源码，欢迎查看。</p><div class="intro-actions"><a class="button primary" href="#works">查看个人作品 <span>↓</span></a><a class="project-brief-link" href="assets/project-brief.txt" download>下载项目说明 ↗</a></div><div class="hub-tags"><span>场景与需求拆解</span><span>产品流程设计</span><span>AI 原型验证</span><span>RAG 应用</span></div></section>
+  <section class="wrap hub-work" id="works"><div class="hub-section-heading"><h2>个人作品</h2><p>当前收录 1 个已完成的个人原型</p></div>
+    <article class="project-card"><a class="project-image" href="case-study.html#demo" aria-label="体验视觉质检助手交互演示"><img src="assets/comparison.png" width="1265" height="712" alt="视觉质检版本对比助手实际界面：30条模拟记录中，22条可比，8条需核对"><span class="image-tag">可交互演示 · 无需登录或密钥</span></a><div class="project-info"><div class="project-number"><span>PROJECT 01 / 个人项目</span><span class="tag pale">可运行原型</span></div><h3>视觉质检版本对比<br>与 RAG 规则检索助手</h3><p>面向测试版本回归与争议样本复核，将结果对比、标准查询、依据解释和人工确认串成一个流程。统计由代码计算，模型负责解释规则，最终结论由人确认。</p><div class="hub-tags"><span>Python</span><span>SQLite</span><span>RAG</span><span>GLM API</span><span>HTML / JavaScript</span></div><div class="project-actions"><a class="button primary" href="case-study.html#demo">在线体验 <span>↗</span></a><a class="button secondary" href="assets/qc-rag-source.zip" download>下载源码 <span>↓</span></a></div><a class="case-link" href="case-study.html">查看产品案例与验证记录 →</a><small class="project-note">在线版使用模拟资料与一次真实调用的结果快照，不实时请求模型。下载本地源码后可配置自己的 API Key 使用完整工具。</small></div></article>
+  </section>
+  <section class="hub-about" id="about"><div class="wrap"><div class="about-layout"><div><p class="eyebrow">关于我</p><h2>从业务问题出发，<br>用原型验证想法。</h2></div><div class="about-copy"><p>我希望从事 AI 产品经理与 B 端应用方向的工作，重点关注需求梳理、业务流程、产品方案，以及 AI 能力在具体任务中的适用范围。</p><p>这个个人项目借助 AI 辅助开发完成。我在作品中呈现场景拆解、产品决策、原型实现和验证边界，便于你了解我如何把需求整理为可运行、可核对的流程。</p></div></div><div class="hub-method"><div><b>明确要解决什么</b><p>从版本差异整理和争议样本复核切入，把任务缩小到能够验证的范围。</p></div><div><b>让不同能力各司其职</b><p>代码负责统计，检索负责找依据，模型负责解释，人工保留最终确认。</p></div><div><b>用证据说明完成度</b><p>展示实际界面、真实调用快照和测试记录；未完成的试用与指标单独说明。</p></div></div></div></section>
+  <section class="wrap hub-faq" id="questions"><h2>关于体验与源码</h2><details open><summary>在线体验需要注册账号或填写 API Key 吗？</summary><p>不需要。公开页面提供独立交互演示，可以查看模拟样本、规则依据、真实调用快照，并填写仅保留在当前页面的演示复核记录，不会上传你的输入。</p></details><details><summary>网页会实时调用模型吗？</summary><p>不会。为了避免免费模型高峰期不可用影响查看，网页展示已验证的真实模型回答快照，并明确标注。完整的本地工具支持真实模型调用，需要你自行配置有效的模型密钥。</p></details><details><summary>源码包包含什么，怎么启动？</summary><p>包括 Python / JavaScript / PowerShell 源码、模拟标准、模拟 Excel 和自动化测试，不含真实密钥、加密密钥或运行数据库。解压后安装 Python 3.10+，运行 python app.py --open；完整步骤见包内说明。<a class="case-link" href="assets/source-readme.txt" download>下载源码说明 →</a></p></details><details><summary>这个项目有哪些验证边界？</summary><p>已完成模拟数据下的版本分类测试，并核验一次真实 GLM 调用返回 ok。尚未完成真实用户任务试用、耗时对照或真实企业标准验证，不将原型测试结果作为产线效果或效率提升数据。详细记录见项目案例页。</p></details></section>
+</main>
+<div class="hub-footer"><footer class="footer wrap"><div><strong>姚余锐</strong><span>AI 产品经理 / B 端应用方向</span></div><p>个人 AI 作品 · 2026.11</p><a href="#">回到顶部 ↑</a></footer></div>
+</body></html>
