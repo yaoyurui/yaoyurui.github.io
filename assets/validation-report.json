@@ -1,0 +1,643 @@
+{
+  "generated_at": "2026-11-05T21:58:03.436779+08:00",
+  "mode": "offline_synthetic_fixtures_not_model_outputs",
+  "documents": 50,
+  "formats": {
+    "txt": 25,
+    "md": 25
+  },
+  "document_checks_passed": 50,
+  "citation_cases": 12,
+  "citation_cases_rejected": 12,
+  "structure_cases": 4,
+  "structure_cases_rejected": 4,
+  "total_checks": 75,
+  "passed": 75,
+  "results": [
+    {
+      "case_id": "SIM-DOC-001",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-001.txt"
+    },
+    {
+      "case_id": "SIM-DOC-002",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-002.md"
+    },
+    {
+      "case_id": "SIM-DOC-003",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "4 条片段",
+      "passed": true,
+      "details": "SIM-DOC-003.txt"
+    },
+    {
+      "case_id": "SIM-DOC-004",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-004.md"
+    },
+    {
+      "case_id": "SIM-DOC-005",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-005.txt"
+    },
+    {
+      "case_id": "SIM-DOC-006",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-006.md"
+    },
+    {
+      "case_id": "SIM-DOC-007",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-007.txt"
+    },
+    {
+      "case_id": "SIM-DOC-008",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-008.md"
+    },
+    {
+      "case_id": "SIM-DOC-009",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-009.txt"
+    },
+    {
+      "case_id": "SIM-DOC-010",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-010.md"
+    },
+    {
+      "case_id": "SIM-DOC-011",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-011.txt"
+    },
+    {
+      "case_id": "SIM-DOC-012",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-012.md"
+    },
+    {
+      "case_id": "SIM-DOC-013",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "4 条片段",
+      "passed": true,
+      "details": "SIM-DOC-013.txt"
+    },
+    {
+      "case_id": "SIM-DOC-014",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-014.md"
+    },
+    {
+      "case_id": "SIM-DOC-015",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-015.txt"
+    },
+    {
+      "case_id": "SIM-DOC-016",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-016.md"
+    },
+    {
+      "case_id": "SIM-DOC-017",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-017.txt"
+    },
+    {
+      "case_id": "SIM-DOC-018",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-018.md"
+    },
+    {
+      "case_id": "SIM-DOC-019",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-019.txt"
+    },
+    {
+      "case_id": "SIM-DOC-020",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-020.md"
+    },
+    {
+      "case_id": "SIM-DOC-021",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-021.txt"
+    },
+    {
+      "case_id": "SIM-DOC-022",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-022.md"
+    },
+    {
+      "case_id": "SIM-DOC-023",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-023.txt"
+    },
+    {
+      "case_id": "SIM-DOC-024",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-024.md"
+    },
+    {
+      "case_id": "SIM-DOC-025",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-025.txt"
+    },
+    {
+      "case_id": "SIM-DOC-026",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-026.md"
+    },
+    {
+      "case_id": "SIM-DOC-027",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-027.txt"
+    },
+    {
+      "case_id": "SIM-DOC-028",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-028.md"
+    },
+    {
+      "case_id": "SIM-DOC-029",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-029.txt"
+    },
+    {
+      "case_id": "SIM-DOC-030",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-030.md"
+    },
+    {
+      "case_id": "SIM-DOC-031",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-031.txt"
+    },
+    {
+      "case_id": "SIM-DOC-032",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-032.md"
+    },
+    {
+      "case_id": "SIM-DOC-033",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-033.txt"
+    },
+    {
+      "case_id": "SIM-DOC-034",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-034.md"
+    },
+    {
+      "case_id": "SIM-DOC-035",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-035.txt"
+    },
+    {
+      "case_id": "SIM-DOC-036",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-036.md"
+    },
+    {
+      "case_id": "SIM-DOC-037",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-037.txt"
+    },
+    {
+      "case_id": "SIM-DOC-038",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-038.md"
+    },
+    {
+      "case_id": "SIM-DOC-039",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-039.txt"
+    },
+    {
+      "case_id": "SIM-DOC-040",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-040.md"
+    },
+    {
+      "case_id": "SIM-DOC-041",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-041.txt"
+    },
+    {
+      "case_id": "SIM-DOC-042",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-042.md"
+    },
+    {
+      "case_id": "SIM-DOC-043",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-043.txt"
+    },
+    {
+      "case_id": "SIM-DOC-044",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-044.md"
+    },
+    {
+      "case_id": "SIM-DOC-045",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-045.txt"
+    },
+    {
+      "case_id": "SIM-DOC-046",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-046.md"
+    },
+    {
+      "case_id": "SIM-DOC-047",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-047.txt"
+    },
+    {
+      "case_id": "SIM-DOC-048",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-048.md"
+    },
+    {
+      "case_id": "SIM-DOC-049",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-049.txt"
+    },
+    {
+      "case_id": "SIM-DOC-050",
+      "category": "document",
+      "expected": "正确检索且出处对应",
+      "actual": "3 条片段",
+      "passed": true,
+      "details": "SIM-DOC-050.md"
+    },
+    {
+      "case_id": "NO-MATCH",
+      "category": "scope",
+      "expected": "0 条匹配",
+      "actual": "0 条匹配",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "case_id": "PRODUCT-MISMATCH",
+      "category": "scope",
+      "expected": "0 条匹配",
+      "actual": "0 条匹配",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "case_id": "VERSION-MISMATCH",
+      "category": "scope",
+      "expected": "0 条匹配",
+      "actual": "0 条匹配",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "case_id": "PART-MISMATCH",
+      "category": "scope",
+      "expected": "0 条匹配",
+      "actual": "0 条匹配",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "case_id": "ARCHIVED-EXCLUDED",
+      "category": "scope",
+      "expected": "0 条匹配",
+      "actual": "0 条匹配",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "case_id": "CONFLICT-RETRIEVAL",
+      "category": "conflict",
+      "expected": "列出冲突双方",
+      "actual": "1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "case_id": "VALID-ANSWER",
+      "category": "positive",
+      "expected": "接受",
+      "actual": "接受",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "case_id": "VALID-CONFLICT",
+      "category": "positive",
+      "expected": "接受",
+      "actual": "接受",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "case_id": "UNKNOWN-EVIDENCE",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "引用编号未检索到"
+    },
+    {
+      "case_id": "UNKNOWN-INLINE",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "存在无效引用编号"
+    },
+    {
+      "case_id": "FABRICATED-QUOTE",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "引用摘录与原文不一致"
+    },
+    {
+      "case_id": "SHORT-QUOTE",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "引用摘录与原文不一致"
+    },
+    {
+      "case_id": "NO-DISTINCTION-EVIDENCE",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "规则解释缺少引用"
+    },
+    {
+      "case_id": "NO-REVIEW-EVIDENCE",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "规则解释缺少引用"
+    },
+    {
+      "case_id": "INVENTED-PAGE",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "回答中含未经许可的出处元数据"
+    },
+    {
+      "case_id": "INVENTED-VERSION",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "回答中含未经许可的出处元数据"
+    },
+    {
+      "case_id": "UNKNOWN-INFO-REF",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "引用编号未检索到"
+    },
+    {
+      "case_id": "MISSING-CONFLICT",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "未列明已知冲突的双方依据"
+    },
+    {
+      "case_id": "ONE-SIDED-CONFLICT",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "未列明已知冲突的双方依据"
+    },
+    {
+      "case_id": "NO-CONFLICT-EVIDENCE",
+      "category": "citation",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "规则解释缺少引用"
+    },
+    {
+      "case_id": "MISSING-FIELD",
+      "category": "structure",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "回答结构不符合约定"
+    },
+    {
+      "case_id": "EXTRA-FIELD",
+      "category": "structure",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "回答结构不符合约定"
+    },
+    {
+      "case_id": "WRONG-TYPE",
+      "category": "structure",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "回答条目无效"
+    },
+    {
+      "case_id": "EMPTY-DISPUTE",
+      "category": "structure",
+      "expected": "拒绝",
+      "actual": "拒绝",
+      "passed": true,
+      "details": "文本字段无效"
+    },
+    {
+      "case_id": "SEMANTIC-LIMIT",
+      "category": "boundary",
+      "expected": "记录结构校验无法识别该语义错误",
+      "actual": "被接受，仍需人工审核",
+      "passed": true,
+      "details": "合法引用不保证结论受原文支持；此项不得记为拦截成功。"
+    }
+  ],
+  "real_model_calls_in_this_run": 0,
+  "user_trials_completed": 0,
+  "feedback_iterations_completed": 0,
+  "limits": [
+    "构造异常响应验证代码，不是50次真实模型效果评测。",
+    "引用编号与摘录校验不能覆盖所有语义幻觉。",
+    "未邀请真实使用者；用户试用与反馈迭代计数均为0。"
+  ],
+  "code_sha256": {
+    "quality_rules.py": "7287d2535151d62885964f352a4f12c59d479f07ca2849d666c5f6134296765e",
+    "standard_parser.py": "15eed008c787f96174edf3b7fd1ff8f6eb124b7e7f52f45b15f7e2f8297a2355",
+    "rag_service.py": "59dde8ab680f66876906bb7a0c1338f730f4fbd1aa7c33bd49348cb3922fa264",
+    "provider_connection.py": "5394d24519269c0cac37baac80e901dc2fd05a55a4fff7fc53fc8235e424314d"
+  },
+  "regression_runs": {
+    "test_quality.py": {
+      "tests": 22,
+      "result": "OK"
+    },
+    "test_rag.py": {
+      "tests": 34,
+      "result": "OK"
+    }
+  },
+  "browser_preview": "not_completed_tool_timeout"
+}
